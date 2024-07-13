@@ -1,7 +1,3 @@
-# GAN-Methodology
-Advancements in healthcare: ‘Harnessing GAN for the Prediction of  Asthma through Radiographic Image Analysis’
-# README
-
 ## Project Title
 **Harnessing GAN for the Prediction of Asthma through Radiographic Image Analysis**
 
